@@ -38,6 +38,7 @@ recipes-create-aliases
 recipes-create-scripts
 d2-lambda-template-ingest-azure
 tab2-agency-feed-creator
+tab-gcp-pipeline
 aiba-ponds-master
 aiba-creamsilk-master
 aiba-dove-master

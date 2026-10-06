@@ -52,7 +52,6 @@ recipes-create-scripts
 recipes-create-scripts-legacy
 recipes-to-elasticsearch
 recipes-to-elasticsearch-legacy
-reengineering
 reporting_assets_asset_transformation_api
 reporting_assets_cache_helper_app
 reporting_assets_nuclear_unsub_process_api
@@ -82,6 +81,7 @@ tab2_akamai_dpichange
 tab2_export_masterdata
 tab2_product_creator_gcp
 tab2productcreatorgcpdev
+tab-gcp-pipeline
 ts_form_otp_gen
 unilever-rms-application-backend
 unilever-rms-application-frontend
